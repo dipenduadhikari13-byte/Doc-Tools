@@ -1,4 +1,4 @@
-# 📝 Text Tools — Fast Word Compression
+# 📝 Doc Tools — Fast Word Compression
 
 A lightweight Streamlit app for compressing Word (`.docx`) documents efficiently without external uploads.
 
